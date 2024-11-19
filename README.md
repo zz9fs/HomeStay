@@ -37,7 +37,6 @@
 
 ### Backend
 1. **Clone the Repository**:
-  ```bash
   git clone https://github.com/zz9fs/HomeStay.git
   cd HomeStay/backend
 2. **Add Dependencies**: Use Spring Initializr to add required dependencies, or manage them in pom.xml using Maven.
