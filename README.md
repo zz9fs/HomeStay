@@ -24,14 +24,14 @@
 ## Project Setup
 
 ### Frontend
-1. **Clone the Repository**:
+- **Clone the Repository**:
    ```bash
    git clone https://github.com/zz9fs/HomeStay.git
    cd HomeStay/frontend
-2. **Install Dependencies**:
+- **Install Dependencies**:
   ```bash
   npm install
-3. **Start the Frontend Server**:
+- **Start the Frontend Server**:
   ```bash
   npm start
 
